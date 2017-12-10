@@ -1,0 +1,13 @@
+div {
+  border: 2px solid red;
+  height: 1em;
+  width: 4.8em;
+  padding: .5em;
+  text-align: center; 
+}
+
+input[type="button"]{
+  margin-top: 20px; 
+  width: 3em;
+  font-size: 2em;
+}
